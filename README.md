@@ -1,12 +1,15 @@
-# [Your Name] - Data Analysis Portfolio
+# Ejike Emmanuel - Data Analysis & Cloud Engineering Portfolio
 
 Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
 
 ## About This Portfolio Template
 
 This portfolio is designed to demonstrate skills in:
+- Connecting diverse data source via REST APIs or cloud-native connectors
 - Data visualization and storytelling
-- Data modeling and analysis
+- Data pipeline using real-time sreaming with Kafka/Kinesis
+- Cost management using complex optimization strategies
+- Data analysis
 - Creating interactive, professional dashboards
 - Transforming complex data into actionable insights
 
@@ -30,7 +33,7 @@ Update the `index.html` file to reflect your personal technical skillset. The te
 
 - **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
 - **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
-- **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
+
 - **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
 
 ## 💡 How to Use This Template
