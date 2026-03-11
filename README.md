@@ -1,4 +1,4 @@
-# Ejike Emmanuel - Data Analysis & Cloud Engineering Portfolio
+# Ejike Emmanuel - Data Analysis & Data Cloud Engineering Portfolio
 
 Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
 
